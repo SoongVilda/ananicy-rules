@@ -3,33 +3,34 @@
 # weechat: https://weechat.org/
 { "name": "weechat", "type": "Chat" }
 # https://www.viber.com
-{ "name": "viber", "type":"Chat" }
+{ "name": "viber", "type": "Chat" }
 # https://desktop.telegram.org/
 { "name": "telegram-desktop", "type": "Chat" }
 { "name": "telegram-desktop.bin", "type": "Chat" }
 { "name": "Telegram", "type": "Chat" }
 { "name": "telegram", "type": "Chat" }
-# Discord: https://discordapp.com/
+# Discord: https://discord.com/
 { "name": "Discord", "type": "Chat" }
 { "name": "DiscordPTB", "type": "Chat" }
 { "name": "DiscordCanary", "type": "Chat" }
-{ "name": "DiscordDevelopment", "type": "chat" }
+{ "name": "DiscordDevelopment", "type": "Chat" }
 { "name": "webcord", "type": "Chat" }
 { "name": "armcord", "type": "Chat" }
 # https://hexchat.github.io
 { "name": "hexchat", "type": "Chat" }
-# Teams: https://teams.microsoft.com/downloads#allDevicesSection
+# Teams: https://teams.microsoft.com/downloadsallDevicesSection
 { "name": "teams", "type": "Chat" }
 { "name": "kotatogram-desktop", "type": "Chat" }
 { "name": "kotatogram-desktop.bin", "type": "Chat" }
 # http://vk.com/messenger
-{ "name": "vk", "type":"Chat" }
+{ "name": "vk", "type": "Chat" }
 { "name": "signal-desktop", "type": "Chat" }
 { "name": "signal-desktop-beta", "type": "Chat" }
 { "name": "skypeforlinux", "type": "Chat" }
-{ "name": "slack", "type":"Chat" }
-{ "name": "rambox", "type": "Chat"}
+{ "name": "slack", "type": "Chat" }
+{ "name": "rambox", "type": "Chat" }
 { "name": "qtox", "type": "Chat" }
+{ "name": "caprine", "type": "Chat" }
 { "name": "mailspring", "type": "Chat" }
 # https://www.mozilla.org/en-US/thunderbird/
 { "name": "thunderbird", "type": "Chat" }
